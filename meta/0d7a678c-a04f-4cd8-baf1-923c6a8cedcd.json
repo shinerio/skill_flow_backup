@@ -1,14 +1,14 @@
 {
   "ID": "0d7a678c-a04f-4cd8-baf1-923c6a8cedcd",
   "Name": "doc-coauthoring",
-  "Path": "C:\\Users\\jstxz\\.skillflow\\skills\\Default\\doc-coauthoring",
-  "Category": "Default",
+  "Path": "C:\\Users\\jstxz\\.skillflow\\skills\\test\\doc-coauthoring",
+  "Category": "test",
   "Source": "manual",
   "SourceURL": "",
   "SourceSubPath": "",
   "SourceSHA": "",
   "LatestSHA": "",
   "InstalledAt": "2026-03-07T00:39:38.747271+08:00",
-  "UpdatedAt": "2026-03-07T00:39:38.747271+08:00",
+  "UpdatedAt": "2026-03-07T00:40:03.0267262+08:00",
   "LastCheckedAt": "0001-01-01T00:00:00Z"
 }

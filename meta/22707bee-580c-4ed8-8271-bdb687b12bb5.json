@@ -1,14 +1,14 @@
 {
   "ID": "22707bee-580c-4ed8-8271-bdb687b12bb5",
   "Name": "example-skill",
-  "Path": "C:\\Users\\jstxz\\.skillflow\\skills\\Default\\example-skill",
-  "Category": "Default",
+  "Path": "C:\\Users\\jstxz\\.skillflow\\skills\\test\\example-skill",
+  "Category": "test",
   "Source": "manual",
   "SourceURL": "",
   "SourceSubPath": "",
   "SourceSHA": "",
   "LatestSHA": "",
   "InstalledAt": "2026-03-07T00:39:40.2696758+08:00",
-  "UpdatedAt": "2026-03-07T00:39:40.2696758+08:00",
+  "UpdatedAt": "2026-03-07T00:40:10.5565219+08:00",
   "LastCheckedAt": "0001-01-01T00:00:00Z"
 }

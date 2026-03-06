@@ -1,14 +1,14 @@
 {
   "ID": "35d5818e-ddb6-4804-86e0-a4fdedc5f229",
   "Name": "algorithmic-art",
-  "Path": "C:\\Users\\jstxz\\.skillflow\\skills\\Default\\algorithmic-art",
-  "Category": "Default",
+  "Path": "C:\\Users\\jstxz\\.skillflow\\skills\\test\\algorithmic-art",
+  "Category": "test",
   "Source": "manual",
   "SourceURL": "",
   "SourceSubPath": "",
   "SourceSHA": "",
   "LatestSHA": "",
   "InstalledAt": "2026-03-07T00:39:38.101669+08:00",
-  "UpdatedAt": "2026-03-07T00:39:38.101669+08:00",
+  "UpdatedAt": "2026-03-07T00:40:11.6550562+08:00",
   "LastCheckedAt": "0001-01-01T00:00:00Z"
 }
