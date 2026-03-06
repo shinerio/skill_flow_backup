@@ -1,0 +1,70 @@
+{
+  "skillsStorageDir": "/Users/shinerio/Library/Application Support/SkillFlow/skills",
+  "defaultCategory": "Imported",
+  "tools": [
+    {
+      "name": "claude-code",
+      "scanDirs": [
+        "/Users/shinerio/.claude/skills",
+        "/Users/shinerio/.claude/plugins/marketplaces"
+      ],
+      "pushDir": "/Users/shinerio/.claude/skills",
+      "enabled": true,
+      "custom": false
+    },
+    {
+      "name": "opencode",
+      "scanDirs": [
+        "/Users/shinerio/.config/opencode/skills",
+        "/Users/shinerio/.agents/skills"
+      ],
+      "pushDir": "/Users/shinerio/.config/opencode/skills",
+      "enabled": true,
+      "custom": false
+    },
+    {
+      "name": "codex",
+      "scanDirs": [
+        "/Users/shinerio/.agents/skills"
+      ],
+      "pushDir": "/Users/shinerio/.agents/skills",
+      "enabled": true,
+      "custom": false
+    },
+    {
+      "name": "gemini-cli",
+      "scanDirs": [
+        "/Users/shinerio/.gemini/skills",
+        "/Users/shinerio/.agents/skills"
+      ],
+      "pushDir": "/Users/shinerio/.gemini/skills",
+      "enabled": true,
+      "custom": false
+    },
+    {
+      "name": "openclaw",
+      "scanDirs": [
+        "/Users/shinerio/.openclaw/skills",
+        "/Users/shinerio/.openclaw/workspace/skills"
+      ],
+      "pushDir": "/Users/shinerio/.openclaw/skills",
+      "enabled": true,
+      "custom": false
+    }
+  ],
+  "cloud": {
+    "provider": "git",
+    "enabled": true,
+    "bucketName": "",
+    "remotePath": "skillflow/",
+    "credentials": {
+      "branch": "master",
+      "repo_url": "git@github.com:shinerio/skill_flow_backup.git"
+    },
+    "syncIntervalMinutes": 10
+  },
+  "proxy": {
+    "mode": "",
+    "url": ""
+  }
+}
