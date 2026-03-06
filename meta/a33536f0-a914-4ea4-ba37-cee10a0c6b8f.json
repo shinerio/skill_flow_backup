@@ -1,14 +1,14 @@
 {
   "ID": "a33536f0-a914-4ea4-ba37-cee10a0c6b8f",
   "Name": "pptx",
-  "Path": "/Users/shinerio/Library/Application Support/SkillFlow/skills/Imported/pptx",
-  "Category": "Imported",
+  "Path": "/Users/shinerio/Library/Application Support/SkillFlow/skills/Default/pptx",
+  "Category": "Default",
   "Source": "manual",
   "SourceURL": "",
   "SourceSubPath": "",
   "SourceSHA": "",
   "LatestSHA": "",
   "InstalledAt": "2026-03-06T18:29:05.298087+08:00",
-  "UpdatedAt": "2026-03-06T18:29:05.298087+08:00",
+  "UpdatedAt": "2026-03-06T20:37:25.871523+08:00",
   "LastCheckedAt": "0001-01-01T00:00:00Z"
 }
