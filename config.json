@@ -1,6 +1,7 @@
 {
   "skillsStorageDir": "/Users/shinerio/Library/Application Support/SkillFlow/skills",
-  "defaultCategory": "Imported",
+  "defaultCategory": "Default",
+  "logLevel": "error",
   "tools": [
     {
       "name": "claude-code",

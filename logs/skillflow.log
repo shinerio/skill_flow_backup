@@ -1,0 +1,7 @@
+2026-03-06 22:36:16.811 [INFO] logger initialized, level=info dir=/Users/shinerio/Library/Application Support/SkillFlow/logs
+2026-03-06 22:36:16.811 [INFO] application startup, version=v1.0.0, dataDir=/Users/shinerio/Library/Application Support/SkillFlow
+2026-03-06 22:36:16.812 [INFO] update all starred repos requested
+2026-03-06 22:36:16.813 [INFO] startup git pull started
+2026-03-06 22:36:27.209 [INFO] startup git pull completed
+2026-03-06 22:36:28.500 [INFO] config saved (logLevel=debug)
+2026-03-06 22:36:30.244 [DEBUG] open path requested: /Users/shinerio/Library/Application Support/SkillFlow/logs
