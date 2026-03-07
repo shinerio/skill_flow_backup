@@ -1,0 +1,14 @@
+{
+  "ID": "eefcc9f2-aab0-4e8e-8a2d-55a7d4462e1d",
+  "Name": "file-organizer",
+  "Path": "skills/Document/file-organizer",
+  "Category": "Document",
+  "Source": "github",
+  "SourceURL": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "SourceSubPath": "file-organizer",
+  "SourceSHA": "044d48b594f060c164f3b20fac9ea01374721bca",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-07T11:42:54.906792+08:00",
+  "UpdatedAt": "2026-03-07T11:42:55.094994+08:00",
+  "LastCheckedAt": "0001-01-01T00:00:00Z"
+}
