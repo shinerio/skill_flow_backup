@@ -4,7 +4,6 @@
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
     "localDir": "cache/github.com/anthropics/skills",
-    "lastSync": "2026-03-07T10:25:27.926992+08:00",
-    "syncError": "git fetch: exit status 128: sign_and_send_pubkey: signing failed for RSA \"\\345\\205\\254\\345\\205\\261\\344\\270\\273\\346\\234\\272\\347\\247\\230\\351\\222\\245-low-level\" from agent: communication with agent failed\r\nsign_and_send_pubkey: signing failed for RSA \"git\\344\\270\\223\\347\\224\\250\" from agent: communication with agent failed\r\nsign_and_send_pubkey: signing failed for RSA \"\\345\\256\\266\\345\\272\\255\\344\\270\\273\\346\\234\\272\\347\\247\\230\\351\\222\\245-high-level\" from agent: communication with agent failed\r\ngit@github.com: Permission denied (publickey).\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+    "lastSync": "2026-03-07T11:00:48.863719+08:00"
   }
 ]

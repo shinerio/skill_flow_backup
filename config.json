@@ -1,6 +1,6 @@
 {
   "defaultCategory": "Default",
-  "logLevel": "error",
+  "logLevel": "debug",
   "tools": [
     {
       "name": "claude-code",
