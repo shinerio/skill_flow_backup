@@ -30,6 +30,13 @@
     "syncIntervalMinutes": 10
   },
   "cloudProfiles": {
+    "aliyun": {
+      "bucketName": "shinerio-config",
+      "remotePath": "skillflow/",
+      "credentials": {
+        "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com"
+      }
+    },
     "git": {
       "bucketName": "shinerio-config",
       "remotePath": "Test/skillflow/",
@@ -38,6 +45,16 @@
         "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com",
         "repo_url": "git@github.com:shinerio/skill_flow_backup.git"
       }
+    },
+    "huawei": {
+      "bucketName": "",
+      "remotePath": "skillflow/",
+      "credentials": null
+    },
+    "tencent": {
+      "bucketName": "",
+      "remotePath": "skillflow/",
+      "credentials": null
     }
   },
   "proxy": {
