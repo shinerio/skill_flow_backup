@@ -4,13 +4,13 @@
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
     "localDir": "cache/github.com/anthropics/skills",
-    "lastSync": "2026-03-07T12:48:30.190546+08:00"
+    "lastSync": "2026-03-07T13:19:47.186407+08:00"
   },
   {
     "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
     "source": "github.com/composiohq/awesome-claude-skills",
     "localDir": "cache/github.com/composiohq/awesome-claude-skills",
-    "lastSync": "2026-03-07T12:48:24.104679+08:00"
+    "lastSync": "2026-03-07T13:19:40.532355+08:00"
   }
 ]
