@@ -27,14 +27,18 @@
   "cloud": {
     "provider": "git",
     "enabled": true,
-    "bucketName": "shinerio-config",
-    "remotePath": "Test/skillflow/",
-    "credentials": {
-      "branch": "master",
-      "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com",
-      "repo_url": "git@github.com:shinerio/skill_flow_backup.git"
-    },
     "syncIntervalMinutes": 10
+  },
+  "cloudProfiles": {
+    "git": {
+      "bucketName": "shinerio-config",
+      "remotePath": "Test/skillflow/",
+      "credentials": {
+        "branch": "master",
+        "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com",
+        "repo_url": "git@github.com:shinerio/skill_flow_backup.git"
+      }
+    }
   },
   "proxy": {
     "mode": "",
