@@ -1,0 +1,14 @@
+{
+  "ID": "7e02c441-8e13-4c6f-b5ea-db1f28b194a8",
+  "Name": "plugin-settings",
+  "Path": "skills/Default/plugin-settings",
+  "Category": "Default",
+  "Source": "manual",
+  "SourceURL": "",
+  "SourceSubPath": "",
+  "SourceSHA": "",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-07T11:05:25.659689+08:00",
+  "UpdatedAt": "2026-03-07T11:05:25.659689+08:00",
+  "LastCheckedAt": "0001-01-01T00:00:00Z"
+}

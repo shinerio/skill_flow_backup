@@ -1,0 +1,14 @@
+{
+  "ID": "ff9e6279-fe98-4b81-a6e9-ab0568dc05d8",
+  "Name": "skill-creator",
+  "Path": "skills/Default/skill-creator",
+  "Category": "Default",
+  "Source": "manual",
+  "SourceURL": "",
+  "SourceSubPath": "",
+  "SourceSHA": "",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-07T11:05:25.54605+08:00",
+  "UpdatedAt": "2026-03-07T11:05:25.54605+08:00",
+  "LastCheckedAt": "0001-01-01T00:00:00Z"
+}

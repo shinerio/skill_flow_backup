@@ -1,0 +1,14 @@
+{
+  "ID": "9c55eecd-6d62-479e-8460-7625ee829e31",
+  "Name": "agent-development",
+  "Path": "skills/Default/agent-development",
+  "Category": "Default",
+  "Source": "manual",
+  "SourceURL": "",
+  "SourceSubPath": "",
+  "SourceSHA": "",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-07T11:05:25.640095+08:00",
+  "UpdatedAt": "2026-03-07T11:05:25.640096+08:00",
+  "LastCheckedAt": "0001-01-01T00:00:00Z"
+}
