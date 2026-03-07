@@ -2,5 +2,5 @@
   "name": "drawio-diagram-analyst",
   "description": "Use this agent when a user needs to extract and understand the architectural logic, workflow sequences, or data relationships embedded in a Draw.io diagram. This includes situations where the user wants a textual mental model of a visual diagram, needs to document diagram content, or wants to analyze system architecture from Draw.io files.",
   "createdAt": "2026-03-08T00:45:34.842458+08:00",
-  "updatedAt": "2026-03-08T00:45:34.842458+08:00"
+  "updatedAt": "2026-03-08T00:58:28.217795+08:00"
 }
