@@ -4,20 +4,20 @@
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
     "localDir": "cache/github.com/anthropics/skills",
-    "lastSync": "2026-03-07T20:21:30.922114+08:00"
+    "lastSync": "2026-03-07T20:40:20.516905+08:00"
   },
   {
     "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
     "source": "github.com/composiohq/awesome-claude-skills",
     "localDir": "cache/github.com/composiohq/awesome-claude-skills",
-    "lastSync": "2026-03-07T20:21:28.287364+08:00"
+    "lastSync": "2026-03-07T20:40:14.721959+08:00"
   },
   {
     "url": "git@github.com:shinerio/shinerio-marketplace.git",
     "name": "shinerio/shinerio-marketplace",
     "source": "github.com/shinerio/shinerio-marketplace",
     "localDir": "cache/github.com/shinerio/shinerio-marketplace",
-    "lastSync": "2026-03-07T20:21:30.636171+08:00"
+    "lastSync": "2026-03-07T20:40:19.9151+08:00"
   }
 ]
