@@ -1,6 +1,7 @@
 {
   "defaultCategory": "Default",
   "logLevel": "error",
+  "repoScanMaxDepth": 5,
   "tools": [
     {
       "name": "claude-code",
@@ -26,10 +27,11 @@
   "cloud": {
     "provider": "git",
     "enabled": true,
-    "bucketName": "",
-    "remotePath": "skillflow/",
+    "bucketName": "shinerio-config",
+    "remotePath": "Test/skillflow/",
     "credentials": {
       "branch": "master",
+      "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com",
       "repo_url": "git@github.com:shinerio/skill_flow_backup.git"
     },
     "syncIntervalMinutes": 10
