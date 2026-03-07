@@ -47,18 +47,22 @@
       }
     },
     "huawei": {
-      "bucketName": "",
+      "bucketName": "shinerio",
       "remotePath": "skillflow/",
-      "credentials": null
+      "credentials": {
+        "endpoint": "shinerio.obs.cn-north-4.myhuaweicloud.com"
+      }
     },
     "tencent": {
-      "bucketName": "",
+      "bucketName": "shinerio-1258556983",
       "remotePath": "skillflow/",
-      "credentials": null
+      "credentials": {
+        "endpoint": "cos.ap-guangzhou.myqcloud.com"
+      }
     }
   },
   "proxy": {
-    "mode": "",
+    "mode": "system",
     "url": ""
   },
   "skippedUpdateVersion": "v1.0.1"
