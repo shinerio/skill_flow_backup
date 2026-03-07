@@ -4,20 +4,22 @@
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
     "localDir": "cache/github.com/anthropics/skills",
-    "lastSync": "2026-03-07T21:16:28.623679+08:00"
+    "lastSync": "2026-03-07T21:16:28.623679+08:00",
+    "syncError": "git fetch: exit status 128: sign_and_send_pubkey: signing failed for RSA \"\\345\\205\\254\\345\\205\\261\\344\\270\\273\\346\\234\\272\\347\\247\\230\\351\\222\\245-low-level\" from agent: communication with agent failed\r\nsign_and_send_pubkey: signing failed for RSA \"git\\344\\270\\223\\347\\224\\250\" from agent: communication with agent failed\r\nsign_and_send_pubkey: signing failed for RSA \"\\345\\256\\266\\345\\272\\255\\344\\270\\273\\346\\234\\272\\347\\247\\230\\351\\222\\245-high-level\" from agent: communication with agent failed\r\ngit@github.com: Permission denied (publickey).\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
   },
   {
     "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
     "source": "github.com/composiohq/awesome-claude-skills",
     "localDir": "cache/github.com/composiohq/awesome-claude-skills",
-    "lastSync": "2026-03-07T21:16:22.605734+08:00"
+    "lastSync": "2026-03-07T21:21:27.494454+08:00"
   },
   {
     "url": "git@github.com:shinerio/shinerio-marketplace.git",
     "name": "shinerio/shinerio-marketplace",
     "source": "github.com/shinerio/shinerio-marketplace",
     "localDir": "cache/github.com/shinerio/shinerio-marketplace",
-    "lastSync": "2026-03-07T21:16:28.764896+08:00"
+    "lastSync": "2026-03-07T21:16:28.764896+08:00",
+    "syncError": "git fetch: exit status 128: sign_and_send_pubkey: signing failed for RSA \"\\345\\205\\254\\345\\205\\261\\344\\270\\273\\346\\234\\272\\347\\247\\230\\351\\222\\245-low-level\" from agent: communication with agent failed\r\nsign_and_send_pubkey: signing failed for RSA \"git\\344\\270\\223\\347\\224\\250\" from agent: communication with agent failed\r\nsign_and_send_pubkey: signing failed for RSA \"\\345\\256\\266\\345\\272\\255\\344\\270\\273\\346\\234\\272\\347\\247\\230\\351\\222\\245-high-level\" from agent: communication with agent failed\r\ngit@github.com: Permission denied (publickey).\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
   }
 ]
