@@ -1,0 +1,14 @@
+{
+  "ID": "ee64f1e2-d611-43eb-bbfb-1f4df73acd9b",
+  "Name": "embed-mindmap",
+  "Path": "skills/Default/embed-mindmap",
+  "Category": "Default",
+  "Source": "github",
+  "SourceURL": "https://github.com/shinerio/shinerio-marketplace",
+  "SourceSubPath": "plugins/shinerio-note-plugin/skills/embed-mindmap",
+  "SourceSHA": "548c64288bbebde69b500f07d170f969435d8fff",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-08T21:06:44.7671298+08:00",
+  "UpdatedAt": "2026-03-08T21:06:44.8494454+08:00",
+  "LastCheckedAt": "0001-01-01T00:00:00Z"
+}
