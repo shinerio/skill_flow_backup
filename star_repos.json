@@ -4,34 +4,34 @@
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
     "localDir": "cache/github.com/anthropics/skills",
-    "lastSync": "2026-03-08T22:44:43.9058674+08:00"
+    "lastSync": "2026-03-08T22:47:15.4808069+08:00"
   },
   {
     "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
     "source": "github.com/composiohq/awesome-claude-skills",
     "localDir": "cache/github.com/composiohq/awesome-claude-skills",
-    "lastSync": "2026-03-08T22:44:41.4005195+08:00"
+    "lastSync": "2026-03-08T22:47:13.6492975+08:00"
   },
   {
     "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git",
     "name": "axtonliu/axton-obsidian-visual-skills",
     "source": "github.com/axtonliu/axton-obsidian-visual-skills",
     "localDir": "cache/github.com/axtonliu/axton-obsidian-visual-skills",
-    "lastSync": "2026-03-08T22:44:41.3619451+08:00"
+    "lastSync": "2026-03-08T22:47:13.9418298+08:00"
   },
   {
     "url": "https://github.com/affaan-m/everything-claude-code.git",
     "name": "affaan-m/everything-claude-code",
     "source": "github.com/affaan-m/everything-claude-code",
     "localDir": "cache/github.com/affaan-m/everything-claude-code",
-    "lastSync": "2026-03-08T22:44:41.4516915+08:00"
+    "lastSync": "2026-03-08T22:47:13.6287699+08:00"
   },
   {
     "url": "https://github.com/shinerio/shinerio-marketplace.git",
     "name": "shinerio/shinerio-marketplace",
     "source": "github.com/shinerio/shinerio-marketplace",
     "localDir": "cache/github.com/shinerio/shinerio-marketplace",
-    "lastSync": "2026-03-08T22:44:43.0672698+08:00"
+    "lastSync": "2026-03-08T22:47:15.7410085+08:00"
   }
 ]
