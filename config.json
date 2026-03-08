@@ -62,8 +62,8 @@
     }
   },
   "proxy": {
-    "mode": "system",
-    "url": ""
+    "mode": "manual",
+    "url": "http://z00569985:ZHru1995123%40@proxysg.huawei.com:8080"
   },
   "skippedUpdateVersion": "v1.0.1"
 }
