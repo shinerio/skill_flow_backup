@@ -14,14 +14,6 @@
     "lastSync": "2026-03-08T10:28:14.2190322+08:00"
   },
   {
-    "url": "git@github.com:shinerio/shinerio-marketplace.git",
-    "name": "shinerio/shinerio-marketplace",
-    "source": "github.com/shinerio/shinerio-marketplace",
-    "localDir": "cache/github.com/shinerio/shinerio-marketplace",
-    "lastSync": "2026-03-08T01:17:31.856288+08:00",
-    "syncError": "exit status 128: Cloning into 'C:\\Users\\z00569985\\.skillflow\\cache\\github.com\\shinerio\\shinerio-marketplace'...\nssh: connect to host github.com port 22: Connection timed out\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
-  },
-  {
     "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git",
     "name": "axtonliu/axton-obsidian-visual-skills",
     "source": "github.com/axtonliu/axton-obsidian-visual-skills",
@@ -34,5 +26,12 @@
     "source": "github.com/affaan-m/everything-claude-code",
     "localDir": "cache/github.com/affaan-m/everything-claude-code",
     "lastSync": "2026-03-08T10:28:14.1991125+08:00"
+  },
+  {
+    "url": "https://github.com/shinerio/shinerio-marketplace.git",
+    "name": "shinerio/shinerio-marketplace",
+    "source": "github.com/shinerio/shinerio-marketplace",
+    "localDir": "cache/github.com/shinerio/shinerio-marketplace",
+    "lastSync": "2026-03-08T10:33:16.9799812+08:00"
   }
 ]
