@@ -87,9 +87,5 @@
       }
     }
   },
-  "proxy": {
-    "mode": "none",
-    "url": ""
-  },
   "skippedUpdateVersion": "v1.0.3"
 }
