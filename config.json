@@ -43,7 +43,7 @@
       "credentials": {
         "branch": "master",
         "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com",
-        "repo_url": "git@github.com:shinerio/skill_flow_backup.git"
+        "repo_url": "https://github.com/shinerio/skill_flow_backup.git"
       }
     },
     "huawei": {
