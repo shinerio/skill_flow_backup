@@ -2,6 +2,32 @@
   "defaultCategory": "Default",
   "logLevel": "error",
   "repoScanMaxDepth": 5,
+  "skillStatusVisibility": {
+    "mySkills": [
+      "updatable",
+      "pushedTools"
+    ],
+    "myTools": [
+      "imported",
+      "updatable",
+      "pushedTools"
+    ],
+    "pushToTool": [
+      "pushedTools"
+    ],
+    "pullFromTool": [
+      "imported"
+    ],
+    "starredRepos": [
+      "imported",
+      "pushedTools"
+    ],
+    "githubInstall": [
+      "imported",
+      "updatable",
+      "pushedTools"
+    ]
+  },
   "tools": [
     {
       "name": "claude-code",
@@ -62,7 +88,8 @@
     }
   },
   "proxy": {
-    "mode": "none"
+    "mode": "none",
+    "url": ""
   },
-  "skippedUpdateVersion": "v1.0.1"
+  "skippedUpdateVersion": "v1.0.3"
 }
