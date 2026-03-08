@@ -4,36 +4,34 @@
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
     "localDir": "cache/github.com/anthropics/skills",
-    "lastSync": "2026-03-08T18:19:26.3609623+08:00"
+    "lastSync": "2026-03-08T19:04:15.422583+08:00"
   },
   {
     "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
     "source": "github.com/composiohq/awesome-claude-skills",
     "localDir": "cache/github.com/composiohq/awesome-claude-skills",
-    "lastSync": "2026-03-08T14:26:51.3267379+08:00",
-    "syncError": "exit status 128: Cloning into 'C:\\Users\\z00569985\\.skillflow\\cache\\github.com\\composiohq\\awesome-claude-skills'...\nwarning: ----------------- SECURITY WARNING ----------------\nwarning: | TLS certificate verification has been disabled! |\nwarning: ---------------------------------------------------\nwarning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.\nwarning: auto-detection of host provider took too long (\u003e2000ms)\nwarning: see https://aka.ms/gcm/autodetect for more information.\nfatal: unable to access 'https://github.com/ComposioHQ/awesome-claude-skills.git/': Proxy CONNECT aborted due to timeout"
+    "lastSync": "2026-03-08T19:04:12.567905+08:00"
   },
   {
     "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git",
     "name": "axtonliu/axton-obsidian-visual-skills",
     "source": "github.com/axtonliu/axton-obsidian-visual-skills",
     "localDir": "cache/github.com/axtonliu/axton-obsidian-visual-skills",
-    "lastSync": "2026-03-08T14:26:51.2087646+08:00",
-    "syncError": "git fetch: exit status 128: warning: ----------------- SECURITY WARNING ----------------\nwarning: | TLS certificate verification has been disabled! |\nwarning: ---------------------------------------------------\nwarning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.\nwarning: auto-detection of host provider took too long (\u003e2000ms)\nwarning: see https://aka.ms/gcm/autodetect for more information.\nfatal: unable to access 'https://github.com/axtonliu/axton-obsidian-visual-skills.git/': Proxy CONNECT aborted due to timeout"
+    "lastSync": "2026-03-08T19:04:13.263684+08:00"
   },
   {
     "url": "https://github.com/affaan-m/everything-claude-code.git",
     "name": "affaan-m/everything-claude-code",
     "source": "github.com/affaan-m/everything-claude-code",
     "localDir": "cache/github.com/affaan-m/everything-claude-code",
-    "lastSync": "2026-03-08T18:19:26.6244549+08:00"
+    "lastSync": "2026-03-08T19:04:12.810662+08:00"
   },
   {
     "url": "https://github.com/shinerio/shinerio-marketplace.git",
     "name": "shinerio/shinerio-marketplace",
     "source": "github.com/shinerio/shinerio-marketplace",
     "localDir": "cache/github.com/shinerio/shinerio-marketplace",
-    "lastSync": "2026-03-08T18:19:26.3530176+08:00"
+    "lastSync": "2026-03-08T19:04:15.458832+08:00"
   }
 ]
