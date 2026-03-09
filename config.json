@@ -63,6 +63,16 @@
         "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com"
       }
     },
+    "aws": {
+      "bucketName": "",
+      "remotePath": "skillflow/",
+      "credentials": null
+    },
+    "azure": {
+      "bucketName": "",
+      "remotePath": "skillflow/",
+      "credentials": null
+    },
     "git": {
       "bucketName": "shinerio-config",
       "remotePath": "Test/skillflow/",
