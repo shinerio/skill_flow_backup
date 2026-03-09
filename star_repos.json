@@ -4,35 +4,35 @@
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
     "localDir": "cache/github.com/anthropics/skills",
-    "lastSync": "2026-03-09T23:53:53.470398+08:00"
+    "lastSync": "2026-03-10T00:25:13.956179+08:00"
   },
   {
     "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
     "source": "github.com/composiohq/awesome-claude-skills",
     "localDir": "cache/github.com/composiohq/awesome-claude-skills",
-    "lastSync": "2026-03-09T23:53:52.633722+08:00"
+    "lastSync": "2026-03-10T00:25:07.816372+08:00"
   },
   {
     "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git",
     "name": "axtonliu/axton-obsidian-visual-skills",
     "source": "github.com/axtonliu/axton-obsidian-visual-skills",
     "localDir": "cache/github.com/axtonliu/axton-obsidian-visual-skills",
-    "lastSync": "2026-03-09T23:53:50.610499+08:00"
+    "lastSync": "2026-03-10T00:25:07.401596+08:00"
   },
   {
     "url": "https://github.com/affaan-m/everything-claude-code.git",
     "name": "affaan-m/everything-claude-code",
     "source": "github.com/affaan-m/everything-claude-code",
     "localDir": "cache/github.com/affaan-m/everything-claude-code",
-    "lastSync": "2026-03-09T23:53:50.805944+08:00"
+    "lastSync": "2026-03-10T00:25:09.154748+08:00"
   },
   {
     "url": "https://github.com/shinerio/shinerio-marketplace.git",
     "name": "shinerio/shinerio-marketplace",
     "source": "github.com/shinerio/shinerio-marketplace",
     "localDir": "cache/github.com/shinerio/shinerio-marketplace",
-    "lastSync": "2026-03-09T23:53:54.191492+08:00"
+    "lastSync": "2026-03-10T00:25:13.987262+08:00"
   },
   {
     "url": "ssh://git@szv-open.codehub.huawei.com:2222/innersource/MagicLamp_G/MagicLamp_VibeSddSuite.git",
@@ -40,13 +40,13 @@
     "source": "szv-open.codehub.huawei.com:2222/innersource/magiclamp_g/magiclamp_vibesddsuite",
     "localDir": "cache/szv-open.codehub.huawei.com_2222/innersource/magiclamp_g/magiclamp_vibesddsuite",
     "lastSync": "2026-03-09T11:01:47.8566602+08:00",
-    "syncError": "exit status 128: Cloning into '/Users/shinerio/Library/Application Support/SkillFlow/cache/szv-open.codehub.huawei.com_2222/innersource/magiclamp_g/magiclamp_vibesddsuite'...\nConnection closed by 127.0.0.1 port 7897\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+    "syncError": "exit status 128: Cloning into '/Users/shinerio/Library/Application Support/SkillFlow/cache/szv-open.codehub.huawei.com_2222/innersource/magiclamp_g/magiclamp_vibesddsuite'...\nConnection closed by 198.18.0.21 port 2222\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
   },
   {
     "url": "https://github.com/obra/superpowers.git",
     "name": "obra/superpowers",
     "source": "github.com/obra/superpowers",
     "localDir": "cache/github.com/obra/superpowers",
-    "lastSync": "2026-03-09T23:54:20.167554+08:00"
+    "lastSync": "2026-03-10T00:25:08.188838+08:00"
   }
 ]
