@@ -33,5 +33,12 @@
     "source": "github.com/shinerio/shinerio-marketplace",
     "localDir": "cache/github.com/shinerio/shinerio-marketplace",
     "lastSync": "2026-03-09T09:36:49.3524012+08:00"
+  },
+  {
+    "url": "ssh://git@szv-open.codehub.huawei.com:2222/innersource/MagicLamp_G/MagicLamp_VibeSddSuite.git",
+    "name": "innersource/MagicLamp_G/MagicLamp_VibeSddSuite",
+    "source": "szv-open.codehub.huawei.com:2222/innersource/magiclamp_g/magiclamp_vibesddsuite",
+    "localDir": "cache/szv-open.codehub.huawei.com_2222/innersource/magiclamp_g/magiclamp_vibesddsuite",
+    "lastSync": "2026-03-09T10:33:21.0019681+08:00"
   }
 ]
