@@ -4,35 +4,35 @@
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
     "localDir": "cache/github.com/anthropics/skills",
-    "lastSync": "2026-03-10T00:25:13.956179+08:00"
+    "lastSync": "2026-03-10T00:25:30.027372+08:00"
   },
   {
     "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
     "source": "github.com/composiohq/awesome-claude-skills",
     "localDir": "cache/github.com/composiohq/awesome-claude-skills",
-    "lastSync": "2026-03-10T00:25:07.816372+08:00"
+    "lastSync": "2026-03-10T00:25:24.168803+08:00"
   },
   {
     "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git",
     "name": "axtonliu/axton-obsidian-visual-skills",
     "source": "github.com/axtonliu/axton-obsidian-visual-skills",
     "localDir": "cache/github.com/axtonliu/axton-obsidian-visual-skills",
-    "lastSync": "2026-03-10T00:25:07.401596+08:00"
+    "lastSync": "2026-03-10T00:25:23.409351+08:00"
   },
   {
     "url": "https://github.com/affaan-m/everything-claude-code.git",
     "name": "affaan-m/everything-claude-code",
     "source": "github.com/affaan-m/everything-claude-code",
     "localDir": "cache/github.com/affaan-m/everything-claude-code",
-    "lastSync": "2026-03-10T00:25:09.154748+08:00"
+    "lastSync": "2026-03-10T00:25:23.504892+08:00"
   },
   {
     "url": "https://github.com/shinerio/shinerio-marketplace.git",
     "name": "shinerio/shinerio-marketplace",
     "source": "github.com/shinerio/shinerio-marketplace",
     "localDir": "cache/github.com/shinerio/shinerio-marketplace",
-    "lastSync": "2026-03-10T00:25:13.987262+08:00"
+    "lastSync": "2026-03-10T00:25:30.058812+08:00"
   },
   {
     "url": "ssh://git@szv-open.codehub.huawei.com:2222/innersource/MagicLamp_G/MagicLamp_VibeSddSuite.git",
@@ -47,6 +47,6 @@
     "name": "obra/superpowers",
     "source": "github.com/obra/superpowers",
     "localDir": "cache/github.com/obra/superpowers",
-    "lastSync": "2026-03-10T00:25:08.188838+08:00"
+    "lastSync": "2026-03-10T00:25:24.047875+08:00"
   }
 ]
