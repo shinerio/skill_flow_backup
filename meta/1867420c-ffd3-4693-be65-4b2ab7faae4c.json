@@ -1,0 +1,14 @@
+{
+  "ID": "1867420c-ffd3-4693-be65-4b2ab7faae4c",
+  "Name": "excalidraw-diagram",
+  "Path": "skills/Default/excalidraw-diagram",
+  "Category": "Default",
+  "Source": "github",
+  "SourceURL": "https://github.com/axtonliu/axton-obsidian-visual-skills",
+  "SourceSubPath": "excalidraw-diagram",
+  "SourceSHA": "1265976d9746a84858b4b7b42fb86a215aa93de9",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-09T16:49:16.8122523+08:00",
+  "UpdatedAt": "2026-03-09T16:49:17.1631683+08:00",
+  "LastCheckedAt": "0001-01-01T00:00:00Z"
+}
