@@ -4,48 +4,49 @@
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
     "localDir": "cache/github.com/anthropics/skills",
-    "lastSync": "2026-03-10T10:19:38.6996724+08:00"
+    "lastSync": "2026-03-10T10:18:47.4068561+08:00"
   },
   {
     "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
     "source": "github.com/composiohq/awesome-claude-skills",
     "localDir": "cache/github.com/composiohq/awesome-claude-skills",
-    "lastSync": "2026-03-10T10:19:38.8294253+08:00"
+    "lastSync": "2026-03-10T10:18:47.5082148+08:00"
   },
   {
     "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git",
     "name": "axtonliu/axton-obsidian-visual-skills",
     "source": "github.com/axtonliu/axton-obsidian-visual-skills",
     "localDir": "cache/github.com/axtonliu/axton-obsidian-visual-skills",
-    "lastSync": "2026-03-10T10:19:38.7414115+08:00"
+    "lastSync": "2026-03-10T10:18:47.6236879+08:00"
   },
   {
     "url": "https://github.com/affaan-m/everything-claude-code.git",
     "name": "affaan-m/everything-claude-code",
     "source": "github.com/affaan-m/everything-claude-code",
     "localDir": "cache/github.com/affaan-m/everything-claude-code",
-    "lastSync": "2026-03-10T10:19:38.6368327+08:00"
+    "lastSync": "2026-03-10T10:18:47.4761997+08:00"
   },
   {
     "url": "https://github.com/shinerio/shinerio-marketplace.git",
     "name": "shinerio/shinerio-marketplace",
     "source": "github.com/shinerio/shinerio-marketplace",
     "localDir": "cache/github.com/shinerio/shinerio-marketplace",
-    "lastSync": "2026-03-10T10:19:38.7483375+08:00"
+    "lastSync": "2026-03-10T10:18:47.3828136+08:00"
   },
   {
     "url": "ssh://git@szv-open.codehub.huawei.com:2222/innersource/MagicLamp_G/MagicLamp_VibeSddSuite.git",
     "name": "innersource/MagicLamp_G/MagicLamp_VibeSddSuite",
     "source": "szv-open.codehub.huawei.com:2222/innersource/magiclamp_g/magiclamp_vibesddsuite",
     "localDir": "cache/szv-open.codehub.huawei.com_2222/innersource/magiclamp_g/magiclamp_vibesddsuite",
-    "lastSync": "2026-03-10T10:19:36.7546283+08:00"
+    "lastSync": "2026-03-10T10:18:45.628718+08:00"
   },
   {
     "url": "https://github.com/obra/superpowers.git",
     "name": "obra/superpowers",
     "source": "github.com/obra/superpowers",
     "localDir": "cache/github.com/obra/superpowers",
-    "lastSync": "2026-03-10T10:19:39.8941762+08:00"
+    "lastSync": "2026-03-10T00:38:17.792053+08:00",
+    "syncError": "exit status 128: Cloning into 'C:\\Users\\z00569985\\.skillflow\\cache\\github.com\\obra\\superpowers'...\nwarning: ----------------- SECURITY WARNING ----------------\nwarning: | TLS certificate verification has been disabled! |\nwarning: ---------------------------------------------------\nwarning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.\nwarning: auto-detection of host provider took too long (\u003e2000ms)\nwarning: see https://aka.ms/gcm/autodetect for more information.\nfatal: unable to access 'https://github.com/obra/superpowers.git/': Proxy CONNECT aborted due to timeout"
   }
 ]
