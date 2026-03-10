@@ -46,7 +46,6 @@
     "name": "obra/superpowers",
     "source": "github.com/obra/superpowers",
     "localDir": "cache/github.com/obra/superpowers",
-    "lastSync": "2026-03-10T00:38:17.792053+08:00",
-    "syncError": "exit status 128: Cloning into 'C:\\Users\\z00569985\\.skillflow\\cache\\github.com\\obra\\superpowers'...\nwarning: ----------------- SECURITY WARNING ----------------\nwarning: | TLS certificate verification has been disabled! |\nwarning: ---------------------------------------------------\nwarning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.\nwarning: auto-detection of host provider took too long (\u003e2000ms)\nwarning: see https://aka.ms/gcm/autodetect for more information.\nfatal: unable to access 'https://github.com/obra/superpowers.git/': Proxy CONNECT aborted due to timeout"
+    "lastSync": "2026-03-10T22:55:15.55095+08:00"
   }
 ]
