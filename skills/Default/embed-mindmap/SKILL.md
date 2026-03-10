@@ -14,8 +14,7 @@ allowed-tools: Bash(mv *), Bash(uv run *), Bash(sleep *)
 
 ## generate mindmap
 
-1. try to install the mcp named "markmap-mcp-server" if not exist.
-2. Use mcp tools named "markmap-mcp-server" to generate mindmap. Record the output HTML file path as `{html_path}`.
+1. Use mcp tools named "markmap-mcp-server" to generate mindmap. Record the output HTML file path as `{html_path}`.
 
 ## export html to png
 
