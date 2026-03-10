@@ -5,6 +5,6 @@ date: YYYY-MM-DD
 {{generated_summary}}
 摘要应以 git diff 中的实际变更为准，对话上下文作为补充说明变更意图
 changelog备份地址为changelog/change_YYYYMM.md（每个月生成一个change log）。如果文件不存在，则按命名要求创建。
-执行 git add -A
+执行 git add -Ad
 执行 git commit -m
 然后执行 git push 推送到远程仓库
