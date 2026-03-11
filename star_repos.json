@@ -4,49 +4,49 @@
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
     "localDir": "cache/github.com/anthropics/skills",
-    "lastSync": "2026-03-11T09:53:54.0461384+08:00"
+    "lastSync": "2026-03-11T19:55:13.929256+08:00"
   },
   {
     "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
     "source": "github.com/composiohq/awesome-claude-skills",
     "localDir": "cache/github.com/composiohq/awesome-claude-skills",
-    "lastSync": "2026-03-11T09:53:54.7854759+08:00"
+    "lastSync": "2026-03-11T19:55:08.150721+08:00"
   },
   {
     "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git",
     "name": "axtonliu/axton-obsidian-visual-skills",
     "source": "github.com/axtonliu/axton-obsidian-visual-skills",
     "localDir": "cache/github.com/axtonliu/axton-obsidian-visual-skills",
-    "lastSync": "2026-03-10T16:31:06.8471292+08:00",
-    "syncError": "git fetch: exit status 128: warning: ----------------- SECURITY WARNING ----------------\nwarning: | TLS certificate verification has been disabled! |\nwarning: ---------------------------------------------------\nwarning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.\nwarning: auto-detection of host provider took too long (\u003e2000ms)\nwarning: see https://aka.ms/gcm/autodetect for more information.\nfatal: unable to access 'https://github.com/axtonliu/axton-obsidian-visual-skills.git/': Proxy CONNECT aborted due to timeout"
+    "lastSync": "2026-03-11T19:55:07.836354+08:00"
   },
   {
     "url": "https://github.com/affaan-m/everything-claude-code.git",
     "name": "affaan-m/everything-claude-code",
     "source": "github.com/affaan-m/everything-claude-code",
     "localDir": "cache/github.com/affaan-m/everything-claude-code",
-    "lastSync": "2026-03-11T09:53:53.8870708+08:00"
+    "lastSync": "2026-03-11T19:55:10.399685+08:00"
   },
   {
     "url": "https://github.com/shinerio/shinerio-marketplace.git",
     "name": "shinerio/shinerio-marketplace",
     "source": "github.com/shinerio/shinerio-marketplace",
     "localDir": "cache/github.com/shinerio/shinerio-marketplace",
-    "lastSync": "2026-03-11T09:53:54.4166058+08:00"
+    "lastSync": "2026-03-11T19:55:13.876184+08:00"
   },
   {
     "url": "ssh://git@szv-open.codehub.huawei.com:2222/innersource/MagicLamp_G/MagicLamp_VibeSddSuite.git",
     "name": "innersource/MagicLamp_G/MagicLamp_VibeSddSuite",
     "source": "szv-open.codehub.huawei.com:2222/innersource/magiclamp_g/magiclamp_vibesddsuite",
     "localDir": "cache/szv-open.codehub.huawei.com_2222/innersource/magiclamp_g/magiclamp_vibesddsuite",
-    "lastSync": "2026-03-11T09:53:51.4232542+08:00"
+    "lastSync": "2026-03-10T10:18:45.628718+08:00",
+    "syncError": "exit status 128: Cloning into '/Users/shinerio/Library/Application Support/SkillFlow/cache/szv-open.codehub.huawei.com_2222/innersource/magiclamp_g/magiclamp_vibesddsuite'...\nConnection closed by 198.18.0.21 port 2222\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
   },
   {
     "url": "https://github.com/obra/superpowers.git",
     "name": "obra/superpowers",
     "source": "github.com/obra/superpowers",
     "localDir": "cache/github.com/obra/superpowers",
-    "lastSync": "2026-03-11T09:53:54.7834373+08:00"
+    "lastSync": "2026-03-11T19:55:09.514006+08:00"
   }
 ]
