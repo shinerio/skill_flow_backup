@@ -1,14 +1,14 @@
 {
   "ID": "69a05a20-87c6-4544-a9a4-1e5babfea595",
   "Name": "sdd-design-story",
-  "Path": "skills/Design/sdd-design-story",
-  "Category": "Design",
+  "Path": "skills/Code/sdd-design-story",
+  "Category": "Code",
   "Source": "github",
   "SourceURL": "https://szv-open.codehub.huawei.com/innersource/MagicLamp_G/MagicLamp_VibeSddSuite",
   "SourceSubPath": "skills/sdd-design-story",
   "SourceSHA": "190c4ea454f871165233fb37499929a17facf9d1",
   "LatestSHA": "",
   "InstalledAt": "2026-03-11T11:42:28.8810073+08:00",
-  "UpdatedAt": "2026-03-11T11:42:28.9938781+08:00",
+  "UpdatedAt": "2026-03-11T11:42:43.0408078+08:00",
   "LastCheckedAt": "0001-01-01T00:00:00Z"
 }
