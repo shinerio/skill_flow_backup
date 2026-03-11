@@ -1,0 +1,13 @@
+{
+  "ID": "aa71dbd4-5e8b-4dc1-ae6c-a714a3e6fc70",
+  "Name": "verification-before-completion",
+  "Path": "skills/Code/verification-before-completion",
+  "Category": "Code",
+  "Source": "github",
+  "SourceURL": "https://github.com/obra/superpowers",
+  "SourceSubPath": "skills/verification-before-completion",
+  "SourceSHA": "48410c7f1973bd66569a627ef27ef6619e0ba923",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-12T00:03:47.0107571+08:00",
+  "UpdatedAt": "2026-03-12T00:03:47.0867096+08:00"
+}

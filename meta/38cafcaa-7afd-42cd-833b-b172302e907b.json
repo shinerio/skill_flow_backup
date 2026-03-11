@@ -1,0 +1,13 @@
+{
+  "ID": "38cafcaa-7afd-42cd-833b-b172302e907b",
+  "Name": "executing-plans",
+  "Path": "skills/Code/executing-plans",
+  "Category": "Code",
+  "Source": "github",
+  "SourceURL": "https://github.com/obra/superpowers",
+  "SourceSubPath": "skills/executing-plans",
+  "SourceSHA": "3bdd66eaa5d74faee2d11c933b7a4bbe604c222e",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-12T00:03:46.3016648+08:00",
+  "UpdatedAt": "2026-03-12T00:03:46.3764073+08:00"
+}

@@ -1,0 +1,13 @@
+{
+  "ID": "df62790e-8efa-4440-8138-1cd66e73b1ee",
+  "Name": "using-git-worktrees",
+  "Path": "skills/Code/using-git-worktrees",
+  "Category": "Code",
+  "Source": "github",
+  "SourceURL": "https://github.com/obra/superpowers",
+  "SourceSubPath": "skills/using-git-worktrees",
+  "SourceSHA": "bb2ff5d309e5da6e021eb517c5012eb53c50a969",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-12T00:03:46.8582272+08:00",
+  "UpdatedAt": "2026-03-12T00:03:46.9326834+08:00"
+}
