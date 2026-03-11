@@ -4,37 +4,35 @@
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
     "localDir": "cache/github.com/anthropics/skills",
-    "lastSync": "2026-03-11T19:55:13.929256+08:00",
-    "syncError": "git fetch: exit status 128: sign_and_send_pubkey: signing failed for RSA \"\\345\\205\\254\\345\\205\\261\\344\\270\\273\\346\\234\\272\\347\\247\\230\\351\\222\\245-low-level\" from agent: communication with agent failed\r\nsign_and_send_pubkey: signing failed for RSA \"git\\344\\270\\223\\347\\224\\250\" from agent: communication with agent failed\r\nsign_and_send_pubkey: signing failed for RSA \"\\345\\256\\266\\345\\272\\255\\344\\270\\273\\346\\234\\272\\347\\247\\230\\351\\222\\245-high-level\" from agent: communication with agent failed\r\ngit@github.com: Permission denied (publickey).\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+    "lastSync": "2026-03-11T20:15:57.429931+08:00"
   },
   {
     "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
     "source": "github.com/composiohq/awesome-claude-skills",
     "localDir": "cache/github.com/composiohq/awesome-claude-skills",
-    "lastSync": "2026-03-11T19:57:12.735809+08:00"
+    "lastSync": "2026-03-11T20:15:52.212223+08:00"
   },
   {
     "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git",
     "name": "axtonliu/axton-obsidian-visual-skills",
     "source": "github.com/axtonliu/axton-obsidian-visual-skills",
     "localDir": "cache/github.com/axtonliu/axton-obsidian-visual-skills",
-    "lastSync": "2026-03-11T19:57:13.169573+08:00"
+    "lastSync": "2026-03-11T20:15:51.727646+08:00"
   },
   {
     "url": "https://github.com/affaan-m/everything-claude-code.git",
     "name": "affaan-m/everything-claude-code",
     "source": "github.com/affaan-m/everything-claude-code",
     "localDir": "cache/github.com/affaan-m/everything-claude-code",
-    "lastSync": "2026-03-11T19:57:13.344009+08:00"
+    "lastSync": "2026-03-11T20:15:51.355751+08:00"
   },
   {
     "url": "https://github.com/shinerio/shinerio-marketplace.git",
     "name": "shinerio/shinerio-marketplace",
     "source": "github.com/shinerio/shinerio-marketplace",
     "localDir": "cache/github.com/shinerio/shinerio-marketplace",
-    "lastSync": "2026-03-11T19:55:13.876184+08:00",
-    "syncError": "git fetch: exit status 128: sign_and_send_pubkey: signing failed for RSA \"\\345\\205\\254\\345\\205\\261\\344\\270\\273\\346\\234\\272\\347\\247\\230\\351\\222\\245-low-level\" from agent: communication with agent failed\r\nsign_and_send_pubkey: signing failed for RSA \"git\\344\\270\\223\\347\\224\\250\" from agent: communication with agent failed\r\nsign_and_send_pubkey: signing failed for RSA \"\\345\\256\\266\\345\\272\\255\\344\\270\\273\\346\\234\\272\\347\\247\\230\\351\\222\\245-high-level\" from agent: communication with agent failed\r\ngit@github.com: Permission denied (publickey).\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."
+    "lastSync": "2026-03-11T20:15:57.378915+08:00"
   },
   {
     "url": "ssh://git@szv-open.codehub.huawei.com:2222/innersource/MagicLamp_G/MagicLamp_VibeSddSuite.git",
@@ -49,6 +47,6 @@
     "name": "obra/superpowers",
     "source": "github.com/obra/superpowers",
     "localDir": "cache/github.com/obra/superpowers",
-    "lastSync": "2026-03-11T19:57:13.288153+08:00"
+    "lastSync": "2026-03-11T20:15:51.480162+08:00"
   }
 ]
