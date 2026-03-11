@@ -1,0 +1,14 @@
+{
+  "ID": "4be2c6ea-0101-4141-a2ae-2e94e2bd101f",
+  "Name": "sdd-cloud-desktop-manager",
+  "Path": "skills/Design/sdd-cloud-desktop-manager",
+  "Category": "Design",
+  "Source": "github",
+  "SourceURL": "https://szv-open.codehub.huawei.com/innersource/MagicLamp_G/MagicLamp_VibeSddSuite",
+  "SourceSubPath": "skills/sdd-cloud-desktop-manager",
+  "SourceSHA": "13a770a98f0fe2639e544d28e3eb82082bc29d67",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-11T11:42:28.703492+08:00",
+  "UpdatedAt": "2026-03-11T11:42:28.830938+08:00",
+  "LastCheckedAt": "0001-01-01T00:00:00Z"
+}
