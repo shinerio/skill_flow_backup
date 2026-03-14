@@ -1,13 +1,13 @@
 {
   "ID": "8f7f34a3-73e3-4c4d-af94-3c212cadd8ce",
   "Name": "mermaid-visualizer",
-  "Path": "skills/Design/mermaid-visualizer",
-  "Category": "Design",
+  "Path": "skills/Draw/mermaid-visualizer",
+  "Category": "Draw",
   "Source": "github",
   "SourceURL": "https://github.com/axtonliu/axton-obsidian-visual-skills",
   "SourceSubPath": "mermaid-visualizer",
   "SourceSHA": "e527abea65e5ea55f6eb8e39bfe351d7ee12ff8e",
   "LatestSHA": "",
   "InstalledAt": "2026-03-09T16:49:17.1691645+08:00",
-  "UpdatedAt": "2026-03-09T16:49:37.90973+08:00"
+  "UpdatedAt": "2026-03-14T19:08:36.0269202+08:00"
 }

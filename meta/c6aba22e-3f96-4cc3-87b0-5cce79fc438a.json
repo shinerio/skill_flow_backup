@@ -1,13 +1,13 @@
 {
   "ID": "c6aba22e-3f96-4cc3-87b0-5cce79fc438a",
   "Name": "obsidian-canvas-creator",
-  "Path": "skills/Design/obsidian-canvas-creator",
-  "Category": "Design",
+  "Path": "skills/Draw/obsidian-canvas-creator",
+  "Category": "Draw",
   "Source": "github",
   "SourceURL": "https://github.com/axtonliu/axton-obsidian-visual-skills",
   "SourceSubPath": "obsidian-canvas-creator",
   "SourceSHA": "e527abea65e5ea55f6eb8e39bfe351d7ee12ff8e",
   "LatestSHA": "",
   "InstalledAt": "2026-03-09T16:49:17.5251343+08:00",
-  "UpdatedAt": "2026-03-09T16:49:31.1152728+08:00"
+  "UpdatedAt": "2026-03-14T19:08:36.0274289+08:00"
 }
