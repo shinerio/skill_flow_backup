@@ -3,6 +3,7 @@
      User: xxxxxxx
      Assistant: xxxxxx
   b. 包含所有skill调用（使用红色加粗边框高亮）
+  c. 存放到chats目录下，文件命名格式为"对话主题_YY_MM_DD.md"
 2. 执行 git diff HEAD 获取当前所有未提交的文件变更内容，生成修改内容摘要{{generated_summary}}，和一句简单的修改主题{{generated_title}}。
 3. 按以下格式追加到changelog文件末尾。changelog备份地址为changelog/change_YYYYMM.md（每个月生成一个change log）。如果文件不存在，则按命名要求创建。
 ## {{generated_title}}
