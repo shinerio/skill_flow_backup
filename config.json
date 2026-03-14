@@ -1,7 +1,7 @@
 {
   "defaultCategory": "Default",
   "logLevel": "error",
-  "repoScanMaxDepth": 5,
+  "repoScanMaxDepth": 8,
   "skillStatusVisibility": {
     "mySkills": [
       "updatable",
