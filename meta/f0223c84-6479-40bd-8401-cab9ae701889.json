@@ -1,13 +1,13 @@
 {
   "ID": "f0223c84-6479-40bd-8401-cab9ae701889",
   "Name": "brainstorming",
-  "Path": "skills/Default/brainstorming",
-  "Category": "Default",
+  "Path": "skills/Code/brainstorming",
+  "Category": "Code",
   "Source": "github",
   "SourceURL": "https://github.com/obra/superpowers",
   "SourceSubPath": "skills/brainstorming",
   "SourceSHA": "9d2b88621105e75b89d9db12712767913c76c7ad",
   "LatestSHA": "",
   "InstalledAt": "2026-03-10T00:01:25.319889+08:00",
-  "UpdatedAt": "2026-03-11T23:46:34.9810201+08:00"
+  "UpdatedAt": "2026-03-12T00:03:58.2522272+08:00"
 }
