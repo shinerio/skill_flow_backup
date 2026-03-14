@@ -1,13 +1,13 @@
 {
   "ID": "67c34bfb-983a-4bf9-bde8-a99eca0cee0c",
   "Name": "subagent-driven-development",
-  "Path": "skills/Code/subagent-driven-development",
-  "Category": "Code",
+  "Path": "skills/Develop/subagent-driven-development",
+  "Category": "Develop",
   "Source": "github",
   "SourceURL": "https://github.com/obra/superpowers",
   "SourceSubPath": "skills/subagent-driven-development",
   "SourceSHA": "9ccce3bf07a40e45259004a330409ba00970eff7",
   "LatestSHA": "",
   "InstalledAt": "2026-03-12T00:03:46.6107344+08:00",
-  "UpdatedAt": "2026-03-14T19:11:35.258637+08:00"
+  "UpdatedAt": "2026-03-14T19:12:49.472676+08:00"
 }

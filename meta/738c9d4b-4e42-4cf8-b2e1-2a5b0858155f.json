@@ -1,13 +1,13 @@
 {
   "ID": "738c9d4b-4e42-4cf8-b2e1-2a5b0858155f",
   "Name": "receiving-code-review",
-  "Path": "skills/Review/receiving-code-review",
-  "Category": "Review",
+  "Path": "skills/Develop/receiving-code-review",
+  "Category": "Develop",
   "Source": "github",
   "SourceURL": "https://github.com/obra/superpowers",
   "SourceSubPath": "skills/receiving-code-review",
   "SourceSHA": "1455ac0631e2f3824229f6a31a1877dc6b96952f",
   "LatestSHA": "",
   "InstalledAt": "2026-03-12T00:03:46.4574337+08:00",
-  "UpdatedAt": "2026-03-14T19:11:19.2501279+08:00"
+  "UpdatedAt": "2026-03-14T19:13:39.9859556+08:00"
 }

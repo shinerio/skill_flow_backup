@@ -1,13 +1,13 @@
 {
   "ID": "a4296d4b-099c-429b-9922-47a12964d273",
   "Name": "systematic-debugging",
-  "Path": "skills/Code/systematic-debugging",
-  "Category": "Code",
+  "Path": "skills/Develop/systematic-debugging",
+  "Category": "Develop",
   "Source": "github",
   "SourceURL": "https://github.com/obra/superpowers",
   "SourceSubPath": "skills/systematic-debugging",
   "SourceSHA": "030a222af19c1f3a93c6eb876a7422d8e4fc0162",
   "LatestSHA": "",
   "InstalledAt": "2026-03-12T00:03:46.6924392+08:00",
-  "UpdatedAt": "2026-03-12T00:03:46.777099+08:00"
+  "UpdatedAt": "2026-03-14T19:12:50.6458009+08:00"
 }

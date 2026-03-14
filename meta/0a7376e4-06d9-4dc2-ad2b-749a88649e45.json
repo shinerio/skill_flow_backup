@@ -1,13 +1,13 @@
 {
   "ID": "0a7376e4-06d9-4dc2-ad2b-749a88649e45",
   "Name": "test-driven-development",
-  "Path": "skills/Code/test-driven-development",
-  "Category": "Code",
+  "Path": "skills/Develop/test-driven-development",
+  "Category": "Develop",
   "Source": "github",
   "SourceURL": "https://github.com/obra/superpowers",
   "SourceSubPath": "skills/test-driven-development",
   "SourceSHA": "030a222af19c1f3a93c6eb876a7422d8e4fc0162",
   "LatestSHA": "",
   "InstalledAt": "2026-03-12T00:03:46.778633+08:00",
-  "UpdatedAt": "2026-03-12T00:03:46.8572119+08:00"
+  "UpdatedAt": "2026-03-14T19:12:51.9045114+08:00"
 }

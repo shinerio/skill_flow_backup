@@ -1,13 +1,13 @@
 {
   "ID": "06fee419-7b7a-41f6-bfe7-3b4eedf40558",
   "Name": "using-superpowers",
-  "Path": "skills/Code/using-superpowers",
-  "Category": "Code",
+  "Path": "skills/Develop/using-superpowers",
+  "Category": "Develop",
   "Source": "github",
   "SourceURL": "https://github.com/obra/superpowers",
   "SourceSubPath": "skills/using-superpowers",
   "SourceSHA": "715e18e4488afe2b54909647385644efe48abb04",
   "LatestSHA": "",
   "InstalledAt": "2026-03-12T00:03:46.9352443+08:00",
-  "UpdatedAt": "2026-03-12T00:03:47.0097355+08:00"
+  "UpdatedAt": "2026-03-14T19:12:54.4498767+08:00"
 }

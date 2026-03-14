@@ -1,13 +1,13 @@
 {
   "ID": "3f83a32f-2f18-4d2e-a703-914ad31a55ea",
   "Name": "writing-skills",
-  "Path": "skills/Code/writing-skills",
-  "Category": "Code",
+  "Path": "skills/Develop/writing-skills",
+  "Category": "Develop",
   "Source": "github",
   "SourceURL": "https://github.com/obra/superpowers",
   "SourceSubPath": "skills/writing-skills",
   "SourceSHA": "a72e416979b76d9fe30f926138a3de058c964738",
   "LatestSHA": "",
   "InstalledAt": "2026-03-12T00:03:47.1695022+08:00",
-  "UpdatedAt": "2026-03-12T00:03:47.2464746+08:00"
+  "UpdatedAt": "2026-03-14T19:12:57.4784792+08:00"
 }

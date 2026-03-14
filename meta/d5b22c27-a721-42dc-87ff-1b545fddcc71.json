@@ -1,13 +1,13 @@
 {
   "ID": "d5b22c27-a721-42dc-87ff-1b545fddcc71",
   "Name": "dispatching-parallel-agents",
-  "Path": "skills/Code/dispatching-parallel-agents",
-  "Category": "Code",
+  "Path": "skills/Develop/dispatching-parallel-agents",
+  "Category": "Develop",
   "Source": "github",
   "SourceURL": "https://github.com/obra/superpowers",
   "SourceSubPath": "skills/dispatching-parallel-agents",
   "SourceSHA": "9ccce3bf07a40e45259004a330409ba00970eff7",
   "LatestSHA": "",
   "InstalledAt": "2026-03-12T00:03:46.2184991+08:00",
-  "UpdatedAt": "2026-03-14T19:11:38.3917876+08:00"
+  "UpdatedAt": "2026-03-14T19:12:45.9764164+08:00"
 }
