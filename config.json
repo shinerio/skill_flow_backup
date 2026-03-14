@@ -1,101 +1,101 @@
 {
-  "defaultCategory": "Default",
-  "logLevel": "error",
-  "repoScanMaxDepth": 8,
-  "skillStatusVisibility": {
-    "mySkills": [
-      "updatable",
-      "pushedTools"
-    ],
-    "myTools": [
-      "imported",
-      "updatable",
-      "pushedTools"
-    ],
-    "pushToTool": [
-      "pushedTools"
-    ],
-    "pullFromTool": [
-      "imported"
-    ],
-    "starredRepos": [
-      "imported",
-      "pushedTools"
-    ],
-    "githubInstall": [
-      "imported",
-      "updatable",
-      "pushedTools"
-    ]
-  },
-  "tools": [
+  "agents": [
     {
-      "name": "claude-code",
-      "enabled": true
+      "enabled": true,
+      "name": "claude-code"
     },
     {
-      "name": "opencode",
-      "enabled": true
+      "enabled": true,
+      "name": "opencode"
     },
     {
-      "name": "codex",
-      "enabled": true
+      "enabled": true,
+      "name": "codex"
     },
     {
-      "name": "gemini-cli",
-      "enabled": true
+      "enabled": true,
+      "name": "gemini-cli"
     },
     {
-      "name": "openclaw",
-      "enabled": true
+      "enabled": true,
+      "name": "openclaw"
     }
   ],
   "cloud": {
-    "provider": "git",
     "enabled": true,
+    "provider": "git",
     "syncIntervalMinutes": 10
   },
   "cloudProfiles": {
     "aliyun": {
       "bucketName": "shinerio-config",
-      "remotePath": "skillflow/",
       "credentials": {
         "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com"
-      }
+      },
+      "remotePath": "skillflow/"
     },
     "aws": {
       "bucketName": "",
-      "remotePath": "skillflow/",
-      "credentials": null
+      "credentials": null,
+      "remotePath": "skillflow/"
     },
     "azure": {
       "bucketName": "",
-      "remotePath": "skillflow/",
-      "credentials": null
+      "credentials": null,
+      "remotePath": "skillflow/"
     },
     "git": {
       "bucketName": "shinerio-config",
-      "remotePath": "Test/skillflow/",
       "credentials": {
         "branch": "master",
         "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com",
         "repo_url": "https://github.com/shinerio/skill_flow_backup.git"
-      }
+      },
+      "remotePath": "Test/skillflow/"
     },
     "huawei": {
       "bucketName": "shinerio",
-      "remotePath": "skillflow/",
       "credentials": {
         "endpoint": "shinerio.obs.cn-north-4.myhuaweicloud.com"
-      }
+      },
+      "remotePath": "skillflow/"
     },
     "tencent": {
       "bucketName": "shinerio-1258556983",
-      "remotePath": "skillflow/",
       "credentials": {
         "endpoint": "cos.ap-guangzhou.myqcloud.com"
-      }
+      },
+      "remotePath": "skillflow/"
     }
+  },
+  "defaultCategory": "Default",
+  "logLevel": "error",
+  "repoScanMaxDepth": 8,
+  "skillStatusVisibility": {
+    "githubInstall": [
+      "imported",
+      "updatable",
+      "pushedAgents"
+    ],
+    "myAgents": [
+      "imported",
+      "updatable",
+      "pushedAgents"
+    ],
+    "mySkills": [
+      "updatable",
+      "pushedAgents"
+    ],
+    "pullFromAgent": [
+      "imported"
+    ],
+    "pushToAgent": [
+      "pushedAgents"
+    ],
+    "starredRepos": [
+      "imported",
+      "pushedAgents"
+    ]
   },
   "skippedUpdateVersion": "v1.0.6"
 }
