@@ -1,6 +1,15 @@
 {
   "name": "信息图表风",
   "description": "数据可视化，图标丰富，流程图，对比图，适合数据报告、行业分析、复杂概念解释。",
+  "imageURLs": [
+    "https://picx.zhimg.com/v2-cb56b3d012891fa9075f1bea273be121_1440w.jpg"
+  ],
+  "webLinks": [
+    {
+      "label": "600页AI-PPT实战后，我写了这篇全网最全NotebookLM 制作 PPT教程",
+      "url": "https://zhuanlan.zhihu.com/p/1983518246318654113"
+    }
+  ],
   "createdAt": "2026-03-15T21:17:54.613825+08:00",
-  "updatedAt": "2026-03-15T21:17:54.613825+08:00"
+  "updatedAt": "2026-03-15T22:13:53.618799+08:00"
 }
