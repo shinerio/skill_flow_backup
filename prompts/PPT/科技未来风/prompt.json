@@ -4,6 +4,12 @@
   "imageURLs": [
     "https://pica.zhimg.com/v2-e1dc373ec1710d5629e75a2132173c00_1440w.jpg"
   ],
+  "webLinks": [
+    {
+      "label": "600页AI-PPT实战后，我写了这篇全网最全NotebookLM 制作 PPT教程",
+      "url": "https://zhuanlan.zhihu.com/p/1983518246318654113"
+    }
+  ],
   "createdAt": "2026-03-15T21:17:08.46887+08:00",
-  "updatedAt": "2026-03-15T23:03:21.236331+08:00"
+  "updatedAt": "2026-03-15T23:03:32.654471+08:00"
 }
