@@ -1,0 +1,16 @@
+{
+  "name": "Studio Mockup Premium",
+  "description": "Professional Product Premium",
+  "imageURLs": [
+    "https://camo.githubusercontent.com/c2f72fd9ab74bdda6282132c7600bb57006f11adab1d3d0244ec99bd0b1f53ab/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f426b5a777278747a576c2e706e67",
+    "https://camo.githubusercontent.com/03ded7717ea9491ccb3b25724e003fe8bdc06a3d8c0725ded510c84b50bc926b/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f537959767278597a57652e706e67"
+  ],
+  "webLinks": [
+    {
+      "label": "awesome-notebookLM-prompts",
+      "url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts"
+    }
+  ],
+  "createdAt": "2026-03-15T22:40:21.098914+08:00",
+  "updatedAt": "2026-03-15T22:40:21.098914+08:00"
+}
