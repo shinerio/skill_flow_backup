@@ -1,1 +1,1 @@
-新建release分支并使用git tag功能发布新的release版本，对上次tag进行小版本加1。分析和上次发布版本新增特性和修复bug作为release信息，推送github触发新版本发布
+使用git tag功能发布新的release版本，对上次tag进行小版本加1。分析和上次发布版本新增特性和修复bug作为release信息，推送github触发新版本发布
