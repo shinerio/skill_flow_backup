@@ -40,5 +40,11 @@
     "name": "obra/superpowers",
     "source": "github.com/obra/superpowers",
     "localDir": "cache/github.com/obra/superpowers"
+  },
+  {
+    "url": "https://github.com/zarazhangrui/frontend-slides.git",
+    "name": "zarazhangrui/frontend-slides",
+    "source": "github.com/zarazhangrui/frontend-slides",
+    "localDir": "cache/github.com/zarazhangrui/frontend-slides"
   }
 ]
