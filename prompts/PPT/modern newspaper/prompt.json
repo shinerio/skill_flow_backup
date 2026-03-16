@@ -1,0 +1,17 @@
+{
+  "name": "modern newspaper",
+  "description": "modern newspaper",
+  "imageURLs": [
+    "https://camo.githubusercontent.com/82cadc104f725decf2756fe0fc3ea1012973c91e044b3d2d862756b1393d0b0e/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f536b6b707769504d2d672e706e67",
+    "https://camo.githubusercontent.com/40a7d070bd96de9440739b883ff997476c5653fc02a9f9aa4982ebd707ef944e/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f724a5a3070794b4762672e706e67",
+    "https://camo.githubusercontent.com/8eca75dbe72b32fc7c2c02c3c22ce3341f8f0b92ea4780457b780324dddf7661/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f487961307031467a5a782e706e67"
+  ],
+  "webLinks": [
+    {
+      "label": "awesome-notebookLM-prompts",
+      "url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts"
+    }
+  ],
+  "createdAt": "2026-03-15T22:33:56.802586+08:00",
+  "updatedAt": "2026-03-15T22:35:03.706403+08:00"
+}
