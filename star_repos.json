@@ -46,5 +46,11 @@
     "name": "zarazhangrui/frontend-slides",
     "source": "github.com/zarazhangrui/frontend-slides",
     "localDir": "cache/github.com/zarazhangrui/frontend-slides"
+  },
+  {
+    "url": "https://codehub-dg-g.huawei.com/cis/se/ai-for-code.git",
+    "name": "cis/se/ai-for-code",
+    "source": "codehub-dg-g.huawei.com/cis/se/ai-for-code",
+    "localDir": "cache/codehub-dg-g.huawei.com/cis/se/ai-for-code"
   }
 ]
