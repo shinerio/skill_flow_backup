@@ -1,96 +1,96 @@
 {
-  "agents": [
-    {
-      "enabled": true,
-      "name": "claude-code"
-    },
-    {
-      "enabled": true,
-      "name": "opencode"
-    },
-    {
-      "enabled": true,
-      "name": "codex"
-    },
-    {
-      "enabled": true,
-      "name": "gemini-cli"
-    },
-    {
-      "enabled": true,
-      "name": "openclaw"
-    }
-  ],
-  "cloud": {
-    "enabled": true,
-    "provider": "git",
-    "syncIntervalMinutes": 10
-  },
-  "cloudProfiles": {
-    "aliyun": {
-      "bucketName": "shinerio-config",
-      "credentials": {
-        "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com"
-      },
-      "remotePath": "skillflow/"
-    },
-    "aws": {
-      "bucketName": "",
-      "credentials": null,
-      "remotePath": "skillflow/"
-    },
-    "azure": {
-      "bucketName": "",
-      "credentials": null,
-      "remotePath": "skillflow/"
-    },
-    "git": {
-      "bucketName": "shinerio-config",
-      "credentials": {
-        "branch": "master",
-        "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com",
-        "repo_url": "https://github.com/shinerio/skill_flow_backup.git"
-      },
-      "remotePath": "Test/skillflow/"
-    },
-    "huawei": {
-      "bucketName": "shinerio",
-      "credentials": {
-        "endpoint": "shinerio.obs.cn-north-4.myhuaweicloud.com"
-      },
-      "remotePath": "skillflow/"
-    },
-    "tencent": {
-      "bucketName": "shinerio-1258556983",
-      "credentials": {
-        "endpoint": "cos.ap-guangzhou.myqcloud.com"
-      },
-      "remotePath": "skillflow/"
-    }
-  },
   "defaultCategory": "Default",
   "logLevel": "error",
   "repoScanMaxDepth": 8,
   "skillStatusVisibility": {
+    "mySkills": [
+      "updatable",
+      "pushedAgents"
+    ],
     "myAgents": [
       "imported",
       "updatable",
       "pushedAgents"
     ],
-    "mySkills": [
-      "updatable",
+    "pushToAgent": [
       "pushedAgents"
     ],
     "pullFromAgent": [
       "imported"
     ],
-    "pushToAgent": [
-      "pushedAgents"
-    ],
     "starredRepos": [
       "imported",
       "pushedAgents"
     ]
+  },
+  "agents": [
+    {
+      "name": "claude-code",
+      "enabled": true
+    },
+    {
+      "name": "opencode",
+      "enabled": true
+    },
+    {
+      "name": "codex",
+      "enabled": true
+    },
+    {
+      "name": "gemini-cli",
+      "enabled": true
+    },
+    {
+      "name": "openclaw",
+      "enabled": true
+    }
+  ],
+  "cloud": {
+    "provider": "git",
+    "enabled": true,
+    "syncIntervalMinutes": 10
+  },
+  "cloudProfiles": {
+    "aliyun": {
+      "bucketName": "shinerio-config",
+      "remotePath": "skillflow/",
+      "credentials": {
+        "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com"
+      }
+    },
+    "aws": {
+      "bucketName": "",
+      "remotePath": "skillflow/",
+      "credentials": null
+    },
+    "azure": {
+      "bucketName": "",
+      "remotePath": "skillflow/",
+      "credentials": null
+    },
+    "git": {
+      "bucketName": "shinerio-config",
+      "remotePath": "Test/skillflow/",
+      "credentials": {
+        "branch": "master",
+        "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com",
+        "repo_url": "https://github.com/shinerio/skill_flow_backup.git"
+      }
+    },
+    "huawei": {
+      "bucketName": "shinerio",
+      "remotePath": "skillflow/",
+      "credentials": {
+        "endpoint": "shinerio.obs.cn-north-4.myhuaweicloud.com"
+      }
+    },
+    "tencent": {
+      "bucketName": "shinerio-1258556983",
+      "remotePath": "skillflow/",
+      "credentials": {
+        "endpoint": "cos.ap-guangzhou.myqcloud.com"
+      }
+    }
   },
   "skippedUpdateVersion": "v1.0.6"
 }
