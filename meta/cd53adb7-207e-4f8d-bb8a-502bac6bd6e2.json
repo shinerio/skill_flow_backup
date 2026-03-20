@@ -1,13 +1,13 @@
 {
   "ID": "cd53adb7-207e-4f8d-bb8a-502bac6bd6e2",
   "Name": "algorithmic-art",
-  "Path": "skills/Default/algorithmic-art",
-  "Category": "Default",
+  "Path": "skills/Draw/algorithmic-art",
+  "Category": "Draw",
   "Source": "github",
   "SourceURL": "https://github.com/anthropics/skills",
   "SourceSubPath": "skills/algorithmic-art",
   "SourceSHA": "ef740771ac901e03fbca3ce4e1c453a96010f30a",
   "LatestSHA": "",
   "InstalledAt": "2026-03-07T11:07:07.727505+08:00",
-  "UpdatedAt": "2026-03-07T11:07:07.84943+08:00"
+  "UpdatedAt": "2026-03-20T22:01:13.3577305+08:00"
 }
