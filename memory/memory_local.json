@@ -3,6 +3,10 @@
     "claude-code": {
       "mode": "merge",
       "autoPush": true
+    },
+    "codex": {
+      "mode": "merge",
+      "autoPush": true
     }
   },
   "modules": null,
