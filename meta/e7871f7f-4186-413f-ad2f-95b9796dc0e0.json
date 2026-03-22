@@ -1,0 +1,13 @@
+{
+  "ID": "e7871f7f-4186-413f-ad2f-95b9796dc0e0",
+  "Name": "access",
+  "Path": "skills/Default/access",
+  "Category": "Default",
+  "Source": "manual",
+  "SourceURL": "",
+  "SourceSubPath": "",
+  "SourceSHA": "",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-22T21:01:58.282199+08:00",
+  "UpdatedAt": "2026-03-22T21:01:58.282199+08:00"
+}
