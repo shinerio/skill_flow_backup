@@ -12,8 +12,24 @@
   "modules": null,
   "pushState": {
     "claude-code": {
-      "lastPushedAt": "2026-03-22T18:47:08.783495+08:00",
-      "lastPushedHash": "e640a6ed7422f2ced21700d7467a77b859be6ee2388ce112a47247b4269c6317"
+      "lastPushedAt": "2026-03-22T19:00:25.41337+08:00",
+      "lastPushedHash": "35978f361df8c921c051bf2038ce6f4a5b5a5a0513b3a5750cfb6367ed2f291b"
+    },
+    "codex": {
+      "lastPushedAt": "2026-03-22T19:00:25.421245+08:00",
+      "lastPushedHash": "35978f361df8c921c051bf2038ce6f4a5b5a5a0513b3a5750cfb6367ed2f291b"
+    },
+    "gemini-cli": {
+      "lastPushedAt": "2026-03-22T19:00:25.427164+08:00",
+      "lastPushedHash": "35978f361df8c921c051bf2038ce6f4a5b5a5a0513b3a5750cfb6367ed2f291b"
+    },
+    "openclaw": {
+      "lastPushedAt": "2026-03-22T19:00:25.429845+08:00",
+      "lastPushedHash": "35978f361df8c921c051bf2038ce6f4a5b5a5a0513b3a5750cfb6367ed2f291b"
+    },
+    "opencode": {
+      "lastPushedAt": "2026-03-22T19:00:25.416689+08:00",
+      "lastPushedHash": "35978f361df8c921c051bf2038ce6f4a5b5a5a0513b3a5750cfb6367ed2f291b"
     }
   }
 }
