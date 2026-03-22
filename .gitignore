@@ -6,3 +6,4 @@ config_local.json
 runtime/
 meta_local/
 star_repos_local.json
+*local.json
