@@ -2,9 +2,14 @@
   "pushConfigs": {
     "claude-code": {
       "mode": "merge",
-      "autoPush": false
+      "autoPush": true
     }
   },
   "modules": null,
-  "pushState": null
+  "pushState": {
+    "claude-code": {
+      "lastPushedAt": "2026-03-22T18:47:08.783495+08:00",
+      "lastPushedHash": "e640a6ed7422f2ced21700d7467a77b859be6ee2388ce112a47247b4269c6317"
+    }
+  }
 }
