@@ -1,27 +1,26 @@
 {
   "pushConfigs": {
     "claude-code": {
-      "mode": "merge",
-      "autoPush": true
+      "autoPush": true,
+      "mode": "merge"
     },
     "codex": {
-      "mode": "merge",
-      "autoPush": true
+      "autoPush": true,
+      "mode": "merge"
     },
     "gemini-cli": {
-      "mode": "merge",
-      "autoPush": true
+      "autoPush": true,
+      "mode": "merge"
     },
     "openclaw": {
-      "mode": "merge",
-      "autoPush": true
+      "autoPush": true,
+      "mode": "merge"
     },
     "opencode": {
-      "mode": "merge",
-      "autoPush": true
+      "autoPush": true,
+      "mode": "merge"
     }
   },
-  "modules": null,
   "pushState": {
     "claude-code": {
       "lastPushedAt": "2026-03-22T23:08:35.3883747+08:00",
