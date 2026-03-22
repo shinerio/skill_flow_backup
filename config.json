@@ -1,75 +1,75 @@
 {
+  "defaultCategory": "Default",
+  "logLevel": "error",
+  "repoScanMaxDepth": 8,
   "agents": [
     {
-      "enabled": true,
-      "name": "claude-code"
+      "name": "claude-code",
+      "enabled": true
     },
     {
-      "enabled": true,
-      "name": "opencode"
+      "name": "opencode",
+      "enabled": true
     },
     {
-      "enabled": true,
-      "name": "codex"
+      "name": "codex",
+      "enabled": true
     },
     {
-      "enabled": true,
-      "name": "gemini-cli"
+      "name": "gemini-cli",
+      "enabled": true
     },
     {
-      "enabled": true,
-      "name": "openclaw"
+      "name": "openclaw",
+      "enabled": true
     }
   ],
   "cloud": {
-    "enabled": true,
     "provider": "git",
+    "enabled": true,
     "syncIntervalMinutes": 10
   },
   "cloudProfiles": {
     "aliyun": {
       "bucketName": "shinerio-config",
+      "remotePath": "skillflow/",
       "credentials": {
         "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com"
-      },
-      "remotePath": "skillflow/"
+      }
     },
     "aws": {
       "bucketName": "",
-      "credentials": null,
-      "remotePath": "skillflow/"
+      "remotePath": "skillflow/",
+      "credentials": null
     },
     "azure": {
       "bucketName": "",
-      "credentials": null,
-      "remotePath": "skillflow/"
+      "remotePath": "skillflow/",
+      "credentials": null
     },
     "git": {
       "bucketName": "shinerio-config",
+      "remotePath": "Test/skillflow/",
       "credentials": {
         "branch": "master",
         "endpoint": "shinerio-config.oss-cn-beijing.aliyuncs.com",
         "repo_url": "https://github.com/shinerio/skill_flow_backup.git"
-      },
-      "remotePath": "Test/skillflow/"
+      }
     },
     "huawei": {
       "bucketName": "shinerio",
+      "remotePath": "skillflow/",
       "credentials": {
         "endpoint": "shinerio.obs.cn-north-4.myhuaweicloud.com"
-      },
-      "remotePath": "skillflow/"
+      }
     },
     "tencent": {
       "bucketName": "shinerio-1258556983",
+      "remotePath": "skillflow/",
       "credentials": {
         "endpoint": "cos.ap-guangzhou.myqcloud.com"
-      },
-      "remotePath": "skillflow/"
+      }
     }
   },
-  "defaultCategory": "Default",
-  "logLevel": "error",
-  "repoScanMaxDepth": 8,
   "skippedUpdateVersion": "v1.0.6"
 }

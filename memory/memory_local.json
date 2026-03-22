@@ -8,6 +8,10 @@
       "autoPush": true,
       "mode": "merge"
     },
+    "est": {
+      "autoPush": true,
+      "mode": "takeover"
+    },
     "gemini-cli": {
       "autoPush": true,
       "mode": "merge"
@@ -23,23 +27,27 @@
   },
   "pushState": {
     "claude-code": {
-      "lastPushedAt": "2026-03-22T23:08:35.3883747+08:00",
+      "lastPushedAt": "2026-03-22T23:22:28.0786297+08:00",
       "lastPushedHash": "10fc9f4bc2cc04fd1b8ab260cd93374659506b8bc681131b2b657fa0b836b357"
     },
     "codex": {
-      "lastPushedAt": "2026-03-22T23:08:35.4123818+08:00",
+      "lastPushedAt": "2026-03-22T23:22:28.1046014+08:00",
+      "lastPushedHash": "10fc9f4bc2cc04fd1b8ab260cd93374659506b8bc681131b2b657fa0b836b357"
+    },
+    "est": {
+      "lastPushedAt": "2026-03-22T23:24:53.0156744+08:00",
       "lastPushedHash": "10fc9f4bc2cc04fd1b8ab260cd93374659506b8bc681131b2b657fa0b836b357"
     },
     "gemini-cli": {
-      "lastPushedAt": "2026-03-22T23:08:35.4245423+08:00",
+      "lastPushedAt": "2026-03-22T23:22:28.1171136+08:00",
       "lastPushedHash": "10fc9f4bc2cc04fd1b8ab260cd93374659506b8bc681131b2b657fa0b836b357"
     },
     "openclaw": {
-      "lastPushedAt": "2026-03-22T23:08:35.4357873+08:00",
+      "lastPushedAt": "2026-03-22T23:22:28.1276613+08:00",
       "lastPushedHash": "10fc9f4bc2cc04fd1b8ab260cd93374659506b8bc681131b2b657fa0b836b357"
     },
     "opencode": {
-      "lastPushedAt": "2026-03-22T23:08:35.4002234+08:00",
+      "lastPushedAt": "2026-03-22T23:22:28.0932303+08:00",
       "lastPushedHash": "10fc9f4bc2cc04fd1b8ab260cd93374659506b8bc681131b2b657fa0b836b357"
     }
   }
