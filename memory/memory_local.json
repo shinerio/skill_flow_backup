@@ -1,0 +1,10 @@
+{
+  "pushConfigs": {
+    "claude-code": {
+      "mode": "merge",
+      "autoPush": false
+    }
+  },
+  "modules": null,
+  "pushState": null
+}

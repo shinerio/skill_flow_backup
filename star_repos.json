@@ -1,42 +1,42 @@
 [
   {
+    "url": "git@github.com:anthropics/skills.git",
     "name": "anthropics/skills",
-    "source": "github.com/anthropics/skills",
-    "url": "git@github.com:anthropics/skills.git"
+    "source": "github.com/anthropics/skills"
   },
   {
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
-    "source": "github.com/composiohq/awesome-claude-skills",
-    "url": "https://github.com/ComposioHQ/awesome-claude-skills.git"
+    "source": "github.com/composiohq/awesome-claude-skills"
   },
   {
+    "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git",
     "name": "axtonliu/axton-obsidian-visual-skills",
-    "source": "github.com/axtonliu/axton-obsidian-visual-skills",
-    "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git"
+    "source": "github.com/axtonliu/axton-obsidian-visual-skills"
   },
   {
+    "url": "https://github.com/affaan-m/everything-claude-code.git",
     "name": "affaan-m/everything-claude-code",
-    "source": "github.com/affaan-m/everything-claude-code",
-    "url": "https://github.com/affaan-m/everything-claude-code.git"
+    "source": "github.com/affaan-m/everything-claude-code"
   },
   {
+    "url": "https://github.com/shinerio/shinerio-marketplace.git",
     "name": "shinerio/shinerio-marketplace",
-    "source": "github.com/shinerio/shinerio-marketplace",
-    "url": "https://github.com/shinerio/shinerio-marketplace.git"
+    "source": "github.com/shinerio/shinerio-marketplace"
   },
   {
+    "url": "ssh://git@szv-open.codehub.huawei.com:2222/innersource/MagicLamp_G/MagicLamp_VibeSddSuite.git",
     "name": "innersource/MagicLamp_G/MagicLamp_VibeSddSuite",
-    "source": "szv-open.codehub.huawei.com:2222/innersource/magiclamp_g/magiclamp_vibesddsuite",
-    "url": "ssh://git@szv-open.codehub.huawei.com:2222/innersource/MagicLamp_G/MagicLamp_VibeSddSuite.git"
+    "source": "szv-open.codehub.huawei.com:2222/innersource/magiclamp_g/magiclamp_vibesddsuite"
   },
   {
+    "url": "https://github.com/obra/superpowers.git",
     "name": "obra/superpowers",
-    "source": "github.com/obra/superpowers",
-    "url": "https://github.com/obra/superpowers.git"
+    "source": "github.com/obra/superpowers"
   },
   {
+    "url": "https://github.com/zarazhangrui/frontend-slides.git",
     "name": "zarazhangrui/frontend-slides",
-    "source": "github.com/zarazhangrui/frontend-slides",
-    "url": "https://github.com/zarazhangrui/frontend-slides.git"
+    "source": "github.com/zarazhangrui/frontend-slides"
   }
 ]
