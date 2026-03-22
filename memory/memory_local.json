@@ -1,0 +1,25 @@
+{
+  "pushConfigs": {
+    "claude-code": {
+      "autoPush": true,
+      "mode": "merge"
+    },
+    "codex": {
+      "autoPush": true,
+      "mode": "merge"
+    },
+    "gemini-cli": {
+      "autoPush": true,
+      "mode": "merge"
+    },
+    "openclaw": {
+      "autoPush": true,
+      "mode": "merge"
+    },
+    "opencode": {
+      "autoPush": true,
+      "mode": "merge"
+    }
+  },
+  "pushState": null
+}
