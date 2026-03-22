@@ -1,0 +1,46 @@
+{
+  "pushConfigs": {
+    "claude-code": {
+      "autoPush": true,
+      "mode": "merge"
+    },
+    "codex": {
+      "autoPush": true,
+      "mode": "merge"
+    },
+    "gemini-cli": {
+      "autoPush": true,
+      "mode": "merge"
+    },
+    "openclaw": {
+      "autoPush": true,
+      "mode": "merge"
+    },
+    "opencode": {
+      "autoPush": true,
+      "mode": "merge"
+    }
+  },
+  "pushState": {
+    "claude-code": {
+      "lastPushedAt": "2026-03-22T22:25:52.6874306+08:00",
+      "lastPushedHash": "3f1e186ae9bd8be8afa32bc0cb5e6ff37b08dd1c549a07319d9b5394bf898bb6"
+    },
+    "codex": {
+      "lastPushedAt": "2026-03-22T22:25:54.0894641+08:00",
+      "lastPushedHash": "3f1e186ae9bd8be8afa32bc0cb5e6ff37b08dd1c549a07319d9b5394bf898bb6"
+    },
+    "gemini-cli": {
+      "lastPushedAt": "2026-03-22T22:25:54.7363592+08:00",
+      "lastPushedHash": "3f1e186ae9bd8be8afa32bc0cb5e6ff37b08dd1c549a07319d9b5394bf898bb6"
+    },
+    "openclaw": {
+      "lastPushedAt": "2026-03-22T22:25:55.969951+08:00",
+      "lastPushedHash": "3f1e186ae9bd8be8afa32bc0cb5e6ff37b08dd1c549a07319d9b5394bf898bb6"
+    },
+    "opencode": {
+      "lastPushedAt": "2026-03-22T22:25:53.4145255+08:00",
+      "lastPushedHash": "3f1e186ae9bd8be8afa32bc0cb5e6ff37b08dd1c549a07319d9b5394bf898bb6"
+    }
+  }
+}
