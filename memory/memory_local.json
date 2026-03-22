@@ -1,46 +1,47 @@
 {
   "pushConfigs": {
     "claude-code": {
-      "autoPush": true,
-      "mode": "merge"
+      "mode": "merge",
+      "autoPush": true
     },
     "codex": {
-      "autoPush": true,
-      "mode": "merge"
+      "mode": "merge",
+      "autoPush": true
     },
     "gemini-cli": {
-      "autoPush": true,
-      "mode": "merge"
+      "mode": "merge",
+      "autoPush": true
     },
     "openclaw": {
-      "autoPush": true,
-      "mode": "merge"
+      "mode": "merge",
+      "autoPush": true
     },
     "opencode": {
-      "autoPush": true,
-      "mode": "merge"
+      "mode": "merge",
+      "autoPush": true
     }
   },
+  "modules": null,
   "pushState": {
     "claude-code": {
-      "lastPushedAt": "2026-03-22T19:00:25.41337+08:00",
-      "lastPushedHash": "35978f361df8c921c051bf2038ce6f4a5b5a5a0513b3a5750cfb6367ed2f291b"
+      "lastPushedAt": "2026-03-22T20:40:14.654389+08:00",
+      "lastPushedHash": "001d41120eac119a4ed1235722df18e6dbb425685a241b59e6e64f16eab59ee4"
     },
     "codex": {
-      "lastPushedAt": "2026-03-22T19:00:25.421245+08:00",
-      "lastPushedHash": "35978f361df8c921c051bf2038ce6f4a5b5a5a0513b3a5750cfb6367ed2f291b"
+      "lastPushedAt": "2026-03-22T20:40:14.661559+08:00",
+      "lastPushedHash": "001d41120eac119a4ed1235722df18e6dbb425685a241b59e6e64f16eab59ee4"
     },
     "gemini-cli": {
-      "lastPushedAt": "2026-03-22T19:00:25.427164+08:00",
-      "lastPushedHash": "35978f361df8c921c051bf2038ce6f4a5b5a5a0513b3a5750cfb6367ed2f291b"
+      "lastPushedAt": "2026-03-22T20:40:14.665385+08:00",
+      "lastPushedHash": "001d41120eac119a4ed1235722df18e6dbb425685a241b59e6e64f16eab59ee4"
     },
     "openclaw": {
-      "lastPushedAt": "2026-03-22T19:00:25.429845+08:00",
-      "lastPushedHash": "35978f361df8c921c051bf2038ce6f4a5b5a5a0513b3a5750cfb6367ed2f291b"
+      "lastPushedAt": "2026-03-22T20:40:14.668984+08:00",
+      "lastPushedHash": "001d41120eac119a4ed1235722df18e6dbb425685a241b59e6e64f16eab59ee4"
     },
     "opencode": {
-      "lastPushedAt": "2026-03-22T19:00:25.416689+08:00",
-      "lastPushedHash": "35978f361df8c921c051bf2038ce6f4a5b5a5a0513b3a5750cfb6367ed2f291b"
+      "lastPushedAt": "2026-03-22T20:40:14.657142+08:00",
+      "lastPushedHash": "001d41120eac119a4ed1235722df18e6dbb425685a241b59e6e64f16eab59ee4"
     }
   }
 }
