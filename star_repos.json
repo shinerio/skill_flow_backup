@@ -1,56 +1,47 @@
 [
   {
-    "url": "git@github.com:anthropics/skills.git",
     "name": "anthropics/skills",
     "source": "github.com/anthropics/skills",
-    "localDir": "cache/github.com/anthropics/skills"
+    "url": "git@github.com:anthropics/skills.git"
   },
   {
-    "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
     "name": "ComposioHQ/awesome-claude-skills",
     "source": "github.com/composiohq/awesome-claude-skills",
-    "localDir": "cache/github.com/composiohq/awesome-claude-skills"
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills.git"
   },
   {
-    "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git",
     "name": "axtonliu/axton-obsidian-visual-skills",
     "source": "github.com/axtonliu/axton-obsidian-visual-skills",
-    "localDir": "cache/github.com/axtonliu/axton-obsidian-visual-skills"
+    "url": "https://github.com/axtonliu/axton-obsidian-visual-skills.git"
   },
   {
-    "url": "https://github.com/affaan-m/everything-claude-code.git",
     "name": "affaan-m/everything-claude-code",
     "source": "github.com/affaan-m/everything-claude-code",
-    "localDir": "cache/github.com/affaan-m/everything-claude-code"
+    "url": "https://github.com/affaan-m/everything-claude-code.git"
   },
   {
-    "url": "https://github.com/shinerio/shinerio-marketplace.git",
     "name": "shinerio/shinerio-marketplace",
     "source": "github.com/shinerio/shinerio-marketplace",
-    "localDir": "cache/github.com/shinerio/shinerio-marketplace"
+    "url": "https://github.com/shinerio/shinerio-marketplace.git"
   },
   {
-    "url": "ssh://git@szv-open.codehub.huawei.com:2222/innersource/MagicLamp_G/MagicLamp_VibeSddSuite.git",
     "name": "innersource/MagicLamp_G/MagicLamp_VibeSddSuite",
     "source": "szv-open.codehub.huawei.com:2222/innersource/magiclamp_g/magiclamp_vibesddsuite",
-    "localDir": "cache/szv-open.codehub.huawei.com_2222/innersource/magiclamp_g/magiclamp_vibesddsuite"
+    "url": "ssh://git@szv-open.codehub.huawei.com:2222/innersource/MagicLamp_G/MagicLamp_VibeSddSuite.git"
   },
   {
-    "url": "https://github.com/obra/superpowers.git",
     "name": "obra/superpowers",
     "source": "github.com/obra/superpowers",
-    "localDir": "cache/github.com/obra/superpowers"
+    "url": "https://github.com/obra/superpowers.git"
   },
   {
-    "url": "https://github.com/zarazhangrui/frontend-slides.git",
     "name": "zarazhangrui/frontend-slides",
     "source": "github.com/zarazhangrui/frontend-slides",
-    "localDir": "cache/github.com/zarazhangrui/frontend-slides"
+    "url": "https://github.com/zarazhangrui/frontend-slides.git"
   },
   {
-    "url": "https://codehub-dg-g.huawei.com/x00675319/skills.git",
     "name": "x00675319/skills",
     "source": "codehub-dg-g.huawei.com/x00675319/skills",
-    "localDir": "cache/codehub-dg-g.huawei.com/x00675319/skills"
+    "url": "https://codehub-dg-g.huawei.com/x00675319/skills.git"
   }
 ]
