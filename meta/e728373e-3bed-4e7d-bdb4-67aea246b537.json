@@ -1,0 +1,13 @@
+{
+  "ID": "e728373e-3bed-4e7d-bdb4-67aea246b537",
+  "Name": "auto-codehub-review",
+  "Path": "skills/Default/auto-codehub-review",
+  "Category": "Default",
+  "Source": "manual",
+  "SourceURL": "",
+  "SourceSubPath": "",
+  "SourceSHA": "",
+  "LatestSHA": "",
+  "InstalledAt": "2026-03-24T19:44:38.1942625+08:00",
+  "UpdatedAt": "2026-03-24T19:44:38.1942625+08:00"
+}
