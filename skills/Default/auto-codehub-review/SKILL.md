@@ -32,9 +32,9 @@ MR编号: 2127
 
 检查当前目录下是否存在该代码仓：
 - 如果存在：跳过克隆步骤
-- 如果不存在：执行 `git clone https://codehub-g.huawei.com/<项目路径>.git`
+- 如果不存在：执行 `git clone ssh://git@codehub-dg-g.huawei.com:2222/<项目路径>.git`
 
-**注意**: CodeHub的git clone URL格式为 `https://codehub-g.huawei.com/<项目路径>.git`
+**注意**: 使用SSH协议，CodeHub的git clone URL格式为 `git clone ssh://git@codehub-dg-g.huawei.com:2222/<项目路径>.git`
 
 ### 3. 获取MR信息
 
