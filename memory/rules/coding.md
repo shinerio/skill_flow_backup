@@ -4,10 +4,7 @@
 
 # lsp
 
-优先使用 LSP 做代码定位、定义跳转、引用查询，只有 LSP 不适用时再退回文本搜索。涉及代码定位、定义、引用、调用链等问题时，必须优先使用 LSP，不要直接先用 Grep/Glob。
-某方法”“方法定义在哪”“有哪些引用”“谁实现了接口”等问题
-，先用 LSP 的 findReferences、goToDefinition、workspaceSymbol 等能力；仅在 LSP 无法覆盖>或结果异常时再补充文本搜索。
-能使用lsp的场景必须优先使用lsp，lsp具有更快的速度和更高的准确率，lsp能提供但不限于以下能力。
+涉及代码定位、定义、引用、调用链等问题时，必须优先使用 LSP，不要直接先用 Grep/Glob，只有 LSP 不适用时再退回文本搜索。能使用lsp的场景必须优先使用lsp，lsp具有更快的速度和更高的准确率，lsp能提供但不限于以下能力。
 - goToDefinition — 「processOrder 在哪里定义？」→ 确切的文件和行号
 - findReferences — 「找到所有调用 validateUser 的地方」→ 每个调用点及其位置
 - hover — 「config 变量是什么类型？」→ 完整的类型签名和文档
