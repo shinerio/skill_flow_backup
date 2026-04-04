@@ -1,0 +1,13 @@
+{
+  "ID": "3b3027c2-63c8-4b66-be46-96c48fac3ff1",
+  "Name": "image-gen-pipeline",
+  "Path": "skills/Default/image-gen-pipeline",
+  "Category": "Default",
+  "Source": "manual",
+  "SourceURL": "",
+  "SourceSubPath": "",
+  "SourceSHA": "",
+  "LatestSHA": "",
+  "InstalledAt": "2026-04-04T23:14:36.713746+08:00",
+  "UpdatedAt": "2026-04-04T23:14:36.713746+08:00"
+}
