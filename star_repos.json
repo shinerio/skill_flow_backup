@@ -43,5 +43,15 @@
     "url": "https://codehub-dg-g.huawei.com/x00675319/skills.git",
     "name": "x00675319/skills",
     "source": "codehub-dg-g.huawei.com/x00675319/skills"
+  },
+  {
+    "url": "https://github.com/garrytan/gstack.git",
+    "name": "garrytan/gstack",
+    "source": "github.com/garrytan/gstack"
+  },
+  {
+    "url": "https://github.com/kepano/obsidian-skills/tree/main",
+    "name": "kepano/obsidian-skills",
+    "source": "github.com/kepano/obsidian-skills"
   }
 ]
